@@ -1,0 +1,4 @@
+Masukkan file musik instrumental piano format MP3 ke folder ini.
+Ubah nama file menjadi: piano.mp3
+Struktur yang diharapkan: musik/piano.mp3
+Musik baru akan diputar setelah pengunjung menekan tombol musik di website.
